@@ -40,6 +40,7 @@ end
 #   if library["get_emoticon"].include?(value)
 #     library["get_emoticon"][value]
 #   else
+
 #     "Sorry, that emoticon was not found"
 #   end
  
